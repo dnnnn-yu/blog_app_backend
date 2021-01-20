@@ -1,2 +1,2 @@
-class V1::Auth::RegistrationsController < ApplicationController
+class Auth::RegistrationsController < ApplicationController
 end
